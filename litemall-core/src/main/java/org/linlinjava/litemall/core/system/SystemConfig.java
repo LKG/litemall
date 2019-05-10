@@ -8,7 +8,9 @@ import java.util.Map;
  * 系统设置
  */
 public class SystemConfig {
-    // 小程序相关配置
+    /**
+     * 小程序相关配置
+     */
     public final static String LITEMALL_WX_INDEX_NEW = "litemall_wx_index_new";
     public final static String LITEMALL_WX_INDEX_HOT = "litemall_wx_index_hot";
     public final static String LITEMALL_WX_INDEX_BRAND = "litemall_wx_index_brand";
